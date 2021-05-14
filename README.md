@@ -30,7 +30,8 @@ jupyter==1.0.0, lxml==4.5.1, MarkupSafe==1.1.1, matplotlib==3.3.2, notebook==6.0
 
 ## Quick Look On Real World Data Frame and Graphs
 
-This was the core df I've used after scraping to provide graphs etc.
+This was the head(first few lines) of core dataframe I've used after scraping to provide graphs etc.
+There were around 5k rows, having the data from 2005 to today.
 
 <img width="834" alt="Ekran Resmi 2021-05-14 14 07 37" src="https://user-images.githubusercontent.com/82866518/118262586-c0b77800-b4bd-11eb-895a-752f24b5adb6.png">
 
