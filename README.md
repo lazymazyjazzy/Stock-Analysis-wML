@@ -1,6 +1,14 @@
 # TUPRS.IS Stock Analysis w/SciKit-Learn 
-## Simple ML Model for Predicting TUPRS.IS Stock Prices
 
+
+Table Of Content
+  * [General Info for ML Model of Predicting TUPRS.IS Stock Prices](#general-info-for-ml-model-of-predicting-tuprsis-stock-prices)
+  * [Quick Look On Real World Data Frame and Graphs](#quick-look-on-real-world-data-frame-and-graphs)
+  * [Machine Learning Model and Predictions for Different Variables](#machine-learning-model-and-predictions-for-different-variables)
+  * [Effects of Other Variables on Stock Prices](#effects-of-other-variables-on-stock-prices)
+ 
+ ## General Info for ML Model of Predicting TUPRS.IS Stock Prices
+ 
 [TUPRS-IS](https://finance.yahoo.com/quote/TUPRS.IS?p=TUPRS.IS&.tsrc=fin-srch) is a stock that you can buy globally, belongs to TUPRAS Turkiye Petroleum Refineries which is one of the biggest companies in Turkey with the market cap around 24,5 B.
 
 <img width="933" alt="Ekran Resmi 2021-05-14 13 56 41" src="https://user-images.githubusercontent.com/82866518/118261435-37ec0c80-b4bc-11eb-8991-013df94e4715.png">
